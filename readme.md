@@ -15,7 +15,7 @@ Help our santa become stronger and stronger, and keep him alive as long as possi
 - using your own python
   
 1. download the whole repo and decompress
-2. pip install -r requirement.txt
+2. pip install -r requirements.txt
 3. cd to the santa_suriviors folder (Important!)
 4. run main.py at the root folder to play the game
 
