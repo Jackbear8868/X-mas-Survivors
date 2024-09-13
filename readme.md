@@ -18,7 +18,8 @@ Help our santa become stronger and stronger, and keep him alive as long as possi
 2. pip install -r requirements.txt
 3. cd to the santa_suriviors folder (Important!)
 4. run main.py at the root folder to play the game
-
+5. use WASD to control your character
+6. press p and take a break
 
 ## reminders
 
